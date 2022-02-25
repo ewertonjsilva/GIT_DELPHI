@@ -1,7 +1,7 @@
 object frm_principal: Tfrm_principal
   Left = 0
   Top = 0
-  Caption = 'frm_principal'
+  Caption = 'Aula Git Delphi'
   ClientHeight = 441
   ClientWidth = 624
   Color = clBtnFace
