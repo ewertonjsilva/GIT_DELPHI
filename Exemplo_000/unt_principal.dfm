@@ -17,7 +17,7 @@ object frm_principal: Tfrm_principal
     Top = 208
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = 'Botão Git'
     TabOrder = 0
   end
 end
